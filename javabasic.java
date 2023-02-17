@@ -1,7 +1,8 @@
 public class javabasic {
 
     
-    // boiler plate code 
+    // boilerplate code 
+    // basic code
 
 
     public static void main(String[] args) {
